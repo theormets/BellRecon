@@ -1,0 +1,16 @@
+.reference-study .reference-comparison{margin:36px 0 22px}
+.reference-study .reference-comparison img{display:block;width:100%;height:auto;border:1px solid #789288}
+.reference-study figcaption,.reference-study .micro{color:#dde4d9;font-size:15px;line-height:1.7}
+.reference-study .actions{flex-wrap:wrap;margin-bottom:38px}
+.reference-study h3{font-family:Georgia,serif;font-size:25px}
+.reference-study .table-scroll{margin:24px 0;background:#f5f3e9;color:#243d35}
+.reference-study table{width:100%;min-width:660px;font-size:15px}
+.reference-study caption{text-align:left;padding:16px;font-size:14px}
+.reference-study th,.reference-study td{white-space:normal;vertical-align:top;padding:16px;line-height:1.6}
+.reference-study tbody th{font-size:14px;letter-spacing:0;text-transform:none}
+.reference-study table a{color:#734423}
+.reference-study .methods-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:28px 40px}
+.reference-study .methods-grid p{font-size:16px;line-height:1.8}
+.reference-study .reference-limit{border-left:3px solid #cd9565;background:#173c32;padding:24px;line-height:1.8;margin:32px 0}
+@media(max-width:650px){.reference-study .methods-grid{grid-template-columns:1fr}.reference-study .actions a{width:100%;text-align:center}.reference-study .reference-limit{padding:18px}}
+
